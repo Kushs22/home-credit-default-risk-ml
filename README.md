@@ -13,6 +13,7 @@ Evaluation using ROC–AUC, recall, and classification metrics
 The dataset is too large to upload directly to this repository.
 You can download it from the following Google Drive link:
 https://drive.google.com/drive/folders/1BHq6eO5BbFvLYERgt8MGVuvC-XL3xx5G?usp=drive_link
+Please download the Jupyter Notebook and the dataset separately, place them in the same folder, and then run the notebook locally
 
 Models Used:
 
